@@ -11,7 +11,7 @@ To run this application, you need to have the **Love2D** framework installed on 
 
 ## How to Run the App
 
-1. **Download the `main.love` file** from the releases section or your project directory.
+1. **Download the `main.love` file** from the releases section.
 2. **Double-click** the `main.love` file to run the app. It will automatically open with Love2D if Love2D is installed correctly.
 
 ## Usage
